@@ -1,0 +1,42 @@
+<Library>
+	<Books category="Technical">
+		<Name>
+			The Age of AI
+		</Name>
+		<Author>
+			Henry Kissinger
+		</Author>
+		<ISBN>
+			978-3-16-148410-0
+		</ISBN>
+        <Name>
+            Doing Agile Right
+        </Name>
+        <Author>
+            Darrell Rigby
+        </Author>    
+        <ISBN>
+            978-1-63-369870-3
+        </ISBN>
+	</Books>
+	<Books category="Cookery">
+		<Name>
+			Crumb: Bake Brilliant Bread
+		</Name>
+		<Author>
+			Richard Bertinet
+		</Author>
+		<ISBN>
+			978-0-85-783554-3
+		</ISBN>
+        <Name>
+            Jane's Patisserie
+        </Name>
+        <Author>
+            Jane Dunn
+        </Author>    
+        <ISBN>
+            978-1-52-910942-9
+        </ISBN>
+	</Books>
+</Library>
